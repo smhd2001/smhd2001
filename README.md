@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Bienvenue sur mon profil GitHub !
 
-<!--
-**smhd2001/smhd2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍🎓 À propos de moi
 
-Here are some ideas to get you started:
+Je suis **Seydina Mouhamed Diop**, étudiant en **Calcul Scientifique et Mathématique de l'Innovation** à l'**Université de Strasbourg**. Passionné par les mathématiques appliquées, le calcul scientifique et l'innovation technologique, je m'intéresse particulièrement aux domaines suivants :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧮 **Modélisation mathématique** et simulation numérique
+- 💻 **Algorithmes scientifiques** et analyse numérique
+- 📊 **Science des données** et apprentissage automatique
+- 🔬 **Innovation computationnelle** et méthodes avancées
+
+## 🎯 Objectifs académiques et professionnels
+
+- Développer des compétences avancées en calcul haute performance (HPC)
+- Explorer les applications des mathématiques à l'innovation technologique
+- Contribuer à des projets de recherche interdisciplinaires
+- Préparer une carrière dans la R&D en sciences computationnelles
